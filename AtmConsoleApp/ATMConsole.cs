@@ -20,17 +20,19 @@ namespace ATM.ConsoleApp
         }
         public void Authorize()
         {
-            Console.Clear();
-            Console.Write("\n\tAuthorization\n\n Card Number: ");
-            string cardNumber = Console.ReadLine()!;
-            Console.Write(" PIN: ");
-            string password = SecureInputPassword();
-            bool accountExists = Session.Authorize(cardNumber, password);
-            if (!accountExists)
+            while (true)
             {
                 Console.Clear();
+                Console.Write("\n\tAuthorization\n\n Card Number: ");
+                string cardNumber = Console.ReadLine()!;
+                Console.Write(" PIN: ");
+                string password = SecureInputPassword();
+
+                if (Session.Authorize(cardNumber, password))
+                    break;
+
+                Console.Clear();
                 Console.Write("\tAccount number is incorrect! Try again.\n\n");
-                Authorize();
             }
         }
         public string SecureInputPassword()
