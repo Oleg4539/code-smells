@@ -86,39 +86,9 @@ namespace ATM.ConsoleApp
             else
                 Console.WriteLine($"\n Take your money.");
         }
-        public void Withdraw()
-        {
-            int sum = 0;
-            while (true)
-            {
-                Console.Write($"\n Sum: ");
-                if (int.TryParse(Console.ReadLine(), out sum))
-                {
-                    Session.Withdraw(sum);
-                    break;
-                }
-                else
-                    Console.WriteLine($"\n Enter a valid sum.");
-            }
-        }
         void putHandler(object sender, AccountEventArgs e)
         {
             Console.WriteLine($"\n Money got to your account balance safely.");
-        }
-        public void Put()
-        {
-            int amount = 0;
-            while (true)
-            {
-                Console.Write($"\n Sum: ");
-                if (int.TryParse(Console.ReadLine(), out amount))
-                {
-                    Session.Account.Put(amount);
-                    break;
-                }
-                else
-                    Console.WriteLine($"\n Enter a valid sum.");
-            }
         }
         void transferHandler(object sender, TransferEventArgs e)
         {
@@ -156,6 +126,28 @@ namespace ATM.ConsoleApp
         public void Exit()
         {
             Authorize();
+        }
+        private int GetValidAmount(string message)
+        {
+            int amount;
+            while (true)
+            {
+                Console.Write($"\n {message}: ");
+                if (int.TryParse(Console.ReadLine(), out amount))
+                    return amount;
+                Console.WriteLine($"\n Enter a valid sum.");
+            }
+        }
+        public void Withdraw()
+        {
+            int sum = GetValidAmount("Sum");
+            Session.Withdraw(sum);
+        }
+
+        public void Put()
+        {
+            int amount = GetValidAmount("Sum");
+            Session.Account.Put(amount);
         }
         public void DisplayMenu()
         {
