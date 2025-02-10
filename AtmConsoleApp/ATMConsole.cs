@@ -153,34 +153,38 @@ namespace ATM.ConsoleApp
         }
         public void DisplayMenu()
         {
-            Console.Clear();
-            var options = new List<Tuple<string, Action>>()
- {
- new Tuple<string, Action>("Check balance", Session.CheckBalance),
- new Tuple<string, Action>("Withdraw", Withdraw),
- new Tuple<string, Action>("Put", Put),
- new Tuple<string, Action>("Transfer", Transfer),
- new Tuple<string, Action>("Exit", Exit)
- };
-            string menu = "\n\tMenu\n\n";
-            for (int i = 1; i <= options.Count; i++)
-            {
-                menu += $" {i} - {options[i - 1].Item1}\n";
-            }
-            Console.Write(menu);
-            int selected = 0;
             while (true)
             {
-                Console.Write("\n Option: ");
-                if (int.TryParse(Console.ReadLine(), out selected) == false || selected <
-               1 || selected > options.Count)
+                Console.Clear();
+                var options = new List<Tuple<string, Action>>()
+        {
+            new Tuple<string, Action>("Check balance", Session.CheckBalance),
+            new Tuple<string, Action>("Withdraw", Withdraw),
+            new Tuple<string, Action>("Put", Put),
+            new Tuple<string, Action>("Transfer", Transfer),
+            new Tuple<string, Action>("Exit", () => Environment.Exit(0))
+        };
+
+                Console.WriteLine("\n\tMenu\n");
+                for (int i = 1; i <= options.Count; i++)
+                {
+                    Console.WriteLine($" {i} - {options[i - 1].Item1}");
+                }
+
+                int selected;
+                while (true)
+                {
+                    Console.Write("\n Option: ");
+                    if (int.TryParse(Console.ReadLine(), out selected) && selected >= 1 && selected <= options.Count)
+                        break;
+
                     Console.WriteLine($"\nEnter a valid option number.");
-                else break;
+                }
+
+                options[selected - 1].Item2();
+                Console.Write("\n Press any key to continue.");
+                Console.ReadKey();
             }
-            options[selected - 1].Item2();
-            Console.Write("\n Press any key to continue.");
-            var key = Console.ReadKey();
-            DisplayMenu();
         }
     }
 }
