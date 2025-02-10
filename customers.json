@@ -1,0 +1,14 @@
+[
+    {
+    "CardNumber": "4441 1144 6710 3642",
+    "FullName": "Oleg Hrechko",
+    "Balance": "80000",
+    "Password": "4539"
+    },
+    {
+        "CardNumber": "5375 4114 0829 3335",
+        "FullName": "Vladyslav Perehuda",
+        "Balance": "120000",
+        "Password": "5262"
+    }
+]

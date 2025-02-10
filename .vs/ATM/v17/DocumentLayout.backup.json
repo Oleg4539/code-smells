@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{382D40C0-9ECA-4B00-8F95-FD0A3A2365C7}|AtmConsoleApp\\ATMConsoleApp.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atmconsoleapp\\atmconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382D40C0-9ECA-4B00-8F95-FD0A3A2365C7}|AtmConsoleApp\\ATMConsoleApp.csproj|solutionrelative:atmconsoleapp\\atmconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382D40C0-9ECA-4B00-8F95-FD0A3A2365C7}|AtmConsoleApp\\ATMConsoleApp.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atmconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382D40C0-9ECA-4B00-8F95-FD0A3A2365C7}|AtmConsoleApp\\ATMConsoleApp.csproj|solutionrelative:atmconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\atmwinforms\\forms\\authorizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|solutionrelative:atmwinforms\\forms\\authorizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\atmwinforms\\forms\\withdrawform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|solutionrelative:atmwinforms\\forms\\withdrawform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\atmwinforms\\forms\\transferform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|solutionrelative:atmwinforms\\forms\\transferform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\atmwinforms\\forms\\putform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|solutionrelative:atmwinforms\\forms\\putform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atmwinforms\\forms\\putform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|solutionrelative:atmwinforms\\forms\\putform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\atmwinforms\\forms\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|solutionrelative:atmwinforms\\forms\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atm.classlibrary\\customeventargs\\accounteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|solutionrelative:atm.classlibrary\\customeventargs\\accounteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atm.classlibrary\\customeventargs\\authorizeeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|solutionrelative:atm.classlibrary\\customeventargs\\authorizeeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atm.classlibrary\\customeventargs\\checkbalanceeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|solutionrelative:atm.classlibrary\\customeventargs\\checkbalanceeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atm.classlibrary\\customeventargs\\transfereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|solutionrelative:atm.classlibrary\\customeventargs\\transfereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atm.classlibrary\\customeventargs\\withdraweventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|solutionrelative:atm.classlibrary\\customeventargs\\withdraweventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atm.classlibrary\\deafaultclasses\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|solutionrelative:atm.classlibrary\\deafaultclasses\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atm.classlibrary\\deafaultclasses\\automatedtellermachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|solutionrelative:atm.classlibrary\\deafaultclasses\\automatedtellermachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atm.classlibrary\\deafaultclasses\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|solutionrelative:atm.classlibrary\\deafaultclasses\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atm.classlibrary\\deafaultclasses\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|solutionrelative:atm.classlibrary\\deafaultclasses\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atm.classlibrary\\deafaultclasses\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE544E4-09F4-4F80-BCF1-5983618F2BE2}|ATM.ClassLibrary\\ClassLibrary.csproj|solutionrelative:atm.classlibrary\\deafaultclasses\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\atmwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|solutionrelative:atmwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atmwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|solutionrelative:atmwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atmwinforms\\forms\\authorizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829D510A-3B98-4EC2-B9AA-D27A447E51BC}|ATMWinForms\\ATMWinForms.csproj|solutionrelative:atmwinforms\\forms\\authorizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382D40C0-9ECA-4B00-8F95-FD0A3A2365C7}|AtmConsoleApp\\ATMConsoleApp.csproj|c:\\users\\kemir\\desktop\\lab_1.net(\u0433\u0440\u0435\u0447\u043A\u043E \u043E\u043B\u0435\u0433)\\atm.classlibrary\\atmconsoleapp\\atmconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{382D40C0-9ECA-4B00-8F95-FD0A3A2365C7}|AtmConsoleApp\\ATMConsoleApp.csproj|solutionrelative:atmconsoleapp\\atmconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorizeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATMWinForms\\Forms\\AuthorizeForm.cs",
+              "RelativeDocumentMoniker": "ATMWinForms\\Forms\\AuthorizeForm.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\ATM.ClassLibrary\\ATMWinForms\\Forms\\AuthorizeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\ATM.ClassLibrary\\ATMWinForms\\Forms\\AuthorizeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransferForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATMWinForms\\Forms\\TransferForm.cs",
+              "RelativeDocumentMoniker": "ATMWinForms\\Forms\\TransferForm.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\ATM.ClassLibrary\\ATMWinForms\\Forms\\TransferForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\ATM.ClassLibrary\\ATMWinForms\\Forms\\TransferForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PutForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATMWinForms\\Forms\\PutForm.cs",
+              "RelativeDocumentMoniker": "ATMWinForms\\Forms\\PutForm.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\ATM.ClassLibrary\\ATMWinForms\\Forms\\PutForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\ATM.ClassLibrary\\ATMWinForms\\Forms\\PutForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PutForm.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATMWinForms\\Forms\\PutForm.cs",
+              "RelativeDocumentMoniker": "ATMWinForms\\Forms\\PutForm.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATMWinForms\\Forms\\PutForm.cs",
+              "RelativeToolTip": "ATMWinForms\\Forms\\PutForm.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:20:17.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATMWinForms\\Forms\\MenuForm.cs",
+              "RelativeDocumentMoniker": "ATMWinForms\\Forms\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\ATM.ClassLibrary\\ATMWinForms\\Forms\\MenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\ATM.ClassLibrary\\ATMWinForms\\Forms\\MenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckBalanceEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\CustomEventArgs\\CheckBalanceEventArgs.cs",
+              "RelativeDocumentMoniker": "ATM.ClassLibrary\\CustomEventArgs\\CheckBalanceEventArgs.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\CustomEventArgs\\CheckBalanceEventArgs.cs",
+              "RelativeToolTip": "ATM.ClassLibrary\\CustomEventArgs\\CheckBalanceEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\AtmConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "AtmConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\AtmConsoleApp\\Program.cs",
+              "RelativeToolTip": "AtmConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ATMConsole.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\AtmConsoleApp\\ATMConsole.cs",
+              "RelativeDocumentMoniker": "AtmConsoleApp\\ATMConsole.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\AtmConsoleApp\\ATMConsole.cs",
+              "RelativeToolTip": "AtmConsoleApp\\ATMConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WithdrawForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATMWinForms\\Forms\\WithdrawForm.cs",
+              "RelativeDocumentMoniker": "ATMWinForms\\Forms\\WithdrawForm.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\ATM.ClassLibrary\\ATMWinForms\\Forms\\WithdrawForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\ATM.ClassLibrary\\ATMWinForms\\Forms\\WithdrawForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransferEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\CustomEventArgs\\TransferEventArgs.cs",
+              "RelativeDocumentMoniker": "ATM.ClassLibrary\\CustomEventArgs\\TransferEventArgs.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\CustomEventArgs\\TransferEventArgs.cs",
+              "RelativeToolTip": "ATM.ClassLibrary\\CustomEventArgs\\TransferEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorizeEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\CustomEventArgs\\AuthorizeEventArgs.cs",
+              "RelativeDocumentMoniker": "ATM.ClassLibrary\\CustomEventArgs\\AuthorizeEventArgs.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\CustomEventArgs\\AuthorizeEventArgs.cs",
+              "RelativeToolTip": "ATM.ClassLibrary\\CustomEventArgs\\AuthorizeEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\CustomEventArgs\\AccountEventArgs.cs",
+              "RelativeDocumentMoniker": "ATM.ClassLibrary\\CustomEventArgs\\AccountEventArgs.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\CustomEventArgs\\AccountEventArgs.cs",
+              "RelativeToolTip": "ATM.ClassLibrary\\CustomEventArgs\\AccountEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WithdrawEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\CustomEventArgs\\WithdrawEventArgs.cs",
+              "RelativeDocumentMoniker": "ATM.ClassLibrary\\CustomEventArgs\\WithdrawEventArgs.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\CustomEventArgs\\WithdrawEventArgs.cs",
+              "RelativeToolTip": "ATM.ClassLibrary\\CustomEventArgs\\WithdrawEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\DeafaultClasses\\Account.cs",
+              "RelativeDocumentMoniker": "ATM.ClassLibrary\\DeafaultClasses\\Account.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\DeafaultClasses\\Account.cs",
+              "RelativeToolTip": "ATM.ClassLibrary\\DeafaultClasses\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutomatedTellerMachine.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\DeafaultClasses\\AutomatedTellerMachine.cs",
+              "RelativeDocumentMoniker": "ATM.ClassLibrary\\DeafaultClasses\\AutomatedTellerMachine.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\DeafaultClasses\\AutomatedTellerMachine.cs",
+              "RelativeToolTip": "ATM.ClassLibrary\\DeafaultClasses\\AutomatedTellerMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\DeafaultClasses\\Bank.cs",
+              "RelativeDocumentMoniker": "ATM.ClassLibrary\\DeafaultClasses\\Bank.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\DeafaultClasses\\Bank.cs",
+              "RelativeToolTip": "ATM.ClassLibrary\\DeafaultClasses\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\DeafaultClasses\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "ATM.ClassLibrary\\DeafaultClasses\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\DeafaultClasses\\EmailNotification.cs",
+              "RelativeToolTip": "ATM.ClassLibrary\\DeafaultClasses\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\DeafaultClasses\\Session.cs",
+              "RelativeDocumentMoniker": "ATM.ClassLibrary\\DeafaultClasses\\Session.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATM.ClassLibrary\\DeafaultClasses\\Session.cs",
+              "RelativeToolTip": "ATM.ClassLibrary\\DeafaultClasses\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthorizeForm.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATMWinForms\\Forms\\AuthorizeForm.cs",
+              "RelativeDocumentMoniker": "ATMWinForms\\Forms\\AuthorizeForm.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATMWinForms\\Forms\\AuthorizeForm.cs",
+              "RelativeToolTip": "ATMWinForms\\Forms\\AuthorizeForm.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATMWinForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ATMWinForms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\ATM.ClassLibrary\\ATMWinForms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\ATM.ClassLibrary\\ATMWinForms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATMWinForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ATMWinForms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\ATMWinForms\\MainForm.cs",
+              "RelativeToolTip": "ATMWinForms\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:12:30.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ATMConsoleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\AtmConsoleApp\\ATMConsoleApp.csproj",
+              "RelativeDocumentMoniker": "AtmConsoleApp\\ATMConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\kemir\\Desktop\\Lab_1.NET(\u0413\u0440\u0435\u0447\u043A\u043E \u041E\u043B\u0435\u0433)\\ATM.ClassLibrary\\AtmConsoleApp\\ATMConsoleApp.csproj",
+              "RelativeToolTip": "AtmConsoleApp\\ATMConsoleApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T03:12:30.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
